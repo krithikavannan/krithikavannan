@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krithikavannan
 - 👀 I’m interested in Web development and graphical designing
-- 🌱 I’m currently learning Bachelor of computer science and engineering from Avinashilingam University,Coimbatore. 
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently pursuing my Bachelor in computer science and engineering from Avinashilingam University,Coimbatore. 
+- 💞️ I’m looking for internship
 - 📫 How to reach me ...
 
 <!---
